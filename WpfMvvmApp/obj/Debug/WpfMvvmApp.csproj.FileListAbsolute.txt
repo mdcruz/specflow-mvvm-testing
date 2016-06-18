@@ -1,1 +1,0 @@
-C:\Users\MCruz\Documents\Visual Studio 2015\Projects\WpfMvvmExample\WpfMvvmApp\obj\Debug\WpfMvvmApp.csprojResolveAssemblyReference.cache

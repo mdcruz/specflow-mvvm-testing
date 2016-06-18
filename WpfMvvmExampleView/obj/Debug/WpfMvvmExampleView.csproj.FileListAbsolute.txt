@@ -1,0 +1,10 @@
+C:\Users\MCruz\Documents\Visual Studio 2015\Projects\WpfMvvmExample\WpfMvvmExampleView\bin\Debug\WpfMvvmExampleView.dll
+C:\Users\MCruz\Documents\Visual Studio 2015\Projects\WpfMvvmExample\WpfMvvmExampleView\bin\Debug\WpfMvvmExampleView.pdb
+C:\Users\MCruz\Documents\Visual Studio 2015\Projects\WpfMvvmExample\WpfMvvmExampleView\bin\Debug\WpfMvvmExample.exe
+C:\Users\MCruz\Documents\Visual Studio 2015\Projects\WpfMvvmExample\WpfMvvmExampleView\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\MCruz\Documents\Visual Studio 2015\Projects\WpfMvvmExample\WpfMvvmExampleView\bin\Debug\WpfMvvmExample.pdb
+C:\Users\MCruz\Documents\Visual Studio 2015\Projects\WpfMvvmExample\WpfMvvmExampleView\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\MCruz\Documents\Visual Studio 2015\Projects\WpfMvvmExample\WpfMvvmExampleView\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\MCruz\Documents\Visual Studio 2015\Projects\WpfMvvmExample\WpfMvvmExampleView\obj\Debug\WpfMvvmExampleView.csprojResolveAssemblyReference.cache
+C:\Users\MCruz\Documents\Visual Studio 2015\Projects\WpfMvvmExample\WpfMvvmExampleView\obj\Debug\WpfMvvmExampleView.dll
+C:\Users\MCruz\Documents\Visual Studio 2015\Projects\WpfMvvmExample\WpfMvvmExampleView\obj\Debug\WpfMvvmExampleView.pdb

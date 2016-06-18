@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfMvvmExample", "WpfMvvmExample\WpfMvvmExample.csproj", "{6FCE12A3-FC8C-497D-9505-0FAC2A9981A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfMvvmExampleTest", "WpfMvvmExampleTest\WpfMvvmExampleTest.csproj", "{A0687449-34E2-41DD-98EC-249AC57527B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfMvvmExampleView", "WpfMvvmExampleView\WpfMvvmExampleView.csproj", "{6E625E14-7FC8-4528-8186-3B0010EFD188}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FCE12A3-FC8C-497D-9505-0FAC2A9981A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FCE12A3-FC8C-497D-9505-0FAC2A9981A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FCE12A3-FC8C-497D-9505-0FAC2A9981A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FCE12A3-FC8C-497D-9505-0FAC2A9981A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0687449-34E2-41DD-98EC-249AC57527B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0687449-34E2-41DD-98EC-249AC57527B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0687449-34E2-41DD-98EC-249AC57527B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0687449-34E2-41DD-98EC-249AC57527B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E625E14-7FC8-4528-8186-3B0010EFD188}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E625E14-7FC8-4528-8186-3B0010EFD188}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E625E14-7FC8-4528-8186-3B0010EFD188}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E625E14-7FC8-4528-8186-3B0010EFD188}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
